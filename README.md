@@ -61,3 +61,6 @@ Integration with platforms like Telegram or Discord
 
 📄 License
 This project is licensed under the MIT License.
+
+
+Developed by Iosifidis Dynamics
